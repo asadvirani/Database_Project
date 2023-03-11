@@ -2,7 +2,10 @@
 Created a Database for a Case Study which included Triggers, Procedures, &amp; Functions
 
 Case Study 1 Painting Hire Business
+
+
 System Description:
+
 A local businesswoman has decided to start her own Internet business, called Masterpieces Ltd, hiring
 paintings to private individuals and commercial companies.
 Because of your reputation as a database designer she has called upon your services to design and
